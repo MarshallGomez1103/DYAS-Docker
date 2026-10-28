@@ -1,5 +1,15 @@
 # Taller de Docker
 
+## Desarrollo del taller
+
+Entrega de **Elioth Gomez** · eliothgomo@unisabana.edu.co.
+
+- [Wiki con resultados y evidencias](https://github.com/MarshallGomez1103/DYAS-Docker/wiki).
+- [Imagen publicada](https://hub.docker.com/r/marshallgomez1103/friendlyhello), etiquetas `0.1.0` y `latest`.
+- [Proyecto Minecraft2](https://github.com/MarshallGomez1103/Mc2): Dockerfile y `.dockerignore` en el módulo `Minecraft2/`.
+
+El ejercicio de ejecutar la imagen de un compañero permanece pendiente. La consigna original se conserva a continuación.
+
 Este taller tiene como objetivo aprender a **crear imágenes propias, ejecutar contenedores y componer aplicaciones de varios servicios** con Docker y Docker Compose.
 Se parte de una aplicación web sencilla en Python con una base de datos Redis, se escala detrás de un balanceador de carga y, al final, se aplica lo aprendido a una aplicación **Java / Spring Boot** como la del proyecto del curso.
 
